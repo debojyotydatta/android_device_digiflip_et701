@@ -1,0 +1,1 @@
+# android_device_digiflip_et701
